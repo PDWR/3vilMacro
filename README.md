@@ -12,7 +12,7 @@
    ![image](https://github.com/PDWR/3vilMacro/blob/main/images/2.png)
   step 3: copy the powershell script address, u don't need to copy the hold powershell script,just only the link on Event logs
    ![image](https://github.com/PDWR/3vilMacro/blob/main/images/3.png)
-  step 4: download the 3vilMacro.exe file, and use the powershell script address as argument, run it ,after 3 seconds, it will create a txt file
+  step 4: download the 3vilMacro.exe file from this project release, and use the powershell script address as argument, run it ,after 3 seconds, it will create a txt file
    ![image](https://github.com/PDWR/3vilMacro/blob/main/images/20210521_154402.gif)
   step 5: make a Excel file and click the dev tools -- Visual Basic, and then click the ThisWorkBook
    ![image](https://github.com/PDWR/3vilMacro/blob/main/images/20210521_164627.gif)
