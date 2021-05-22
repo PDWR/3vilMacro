@@ -2,8 +2,9 @@
 
 ## If you think this project helpful,Give me a start and watch, pls!
 
-### This is a tool for generating obfuscated VBA code. You can put the code to the excel Macro code , after the victim run the excel file and push the Enable content button.
+### This is a tool for generating obfuscated VBA code. You can put the code to the excel Macro code , after the victim run the excel file and push the Enable content button.THis tool can use in office suite,not just excel.
 ### The Macro Code will be different everytime
+### This tool is built by Pyinstaller, and some antivirus will detect it as a virus, just ignore it. It's clean.
 ### If you find any problems when you using this tool, you can let me know at Issues.
 ## This tool is only for education, pls don't using for illegal oprations.
 
