@@ -29,3 +29,7 @@ The Macro Code will be different everytime
   ## By the way, This Macro File will Bypass the Qihoo360, Tencent PC Manager, HuoRong. Don't put it to any virus-Check Platform.
   ![image](https://github.com/PDWR/3vilMacro/blob/main/images/20210521_172322.gif)
   
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/PDWR/3vilMacro.svg)](https://starchart.cc/PDWR/3vilMacro)
